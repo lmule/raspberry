@@ -11,7 +11,7 @@
 
     * 第一次连接树莓派
         * 使用VGA或者DVI转接口<br />
-        []()
+        [https://github.com/lmule/raspberry/wiki/使用VGA或者DVI转接口连接树莓派和显示器](https://github.com/lmule/raspberry/wiki/使用VGA或者DVI转接口连接树莓派和显示器)
         * 使用网线连接<br />
         []()
 
