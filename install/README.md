@@ -30,3 +30,19 @@
 	* 选择4：修改时区和语言选项
 	
 到这里，树莓派的安装和初始化已经基本完成了。当然里面还有好多其他的配置可以自己调整，更多请见[https://www.raspberrypi.org/documentation/configuration/raspi-config.md](https://www.raspberrypi.org/documentation/configuration/raspi-config.md)
+
+3. 系统升级
+
+	初始化完系统之后，顺便把固件和内核也升级一下。
+	
+	> `#升级固件`
+	
+	> `sudo rpi-update`
+	
+	> `#升级系统`
+	
+	> `sudo apt-get update`
+	
+	> `sudo apt-get dist-upgrade`
+	
+	> `sudo apt-get upgrade`
