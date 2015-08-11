@@ -10,5 +10,5 @@
 
 3. 音频
 
-    关于音频方面的常用类库（比如科大讯飞的语音识别、TTS功能）
+    关于音频方面的常用类库(比如科大讯飞的语音识别、TTS功能)，详见audio目录：[https://github.com/lmule/raspberry/tree/master/audio](https://github.com/lmule/raspberry/tree/master/audio)。
 4. 视频
